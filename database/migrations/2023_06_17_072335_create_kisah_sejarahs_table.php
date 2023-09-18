@@ -17,8 +17,14 @@ return new class extends Migration
             $table->id();
             $table->string('judul');
             $table->string('nama')->default('hamba Allah');
-            $table->string('image')->nullable();
-            $table->text('konten');
+            $table->text('konten1');
+            $table->text('konten2')->nullable();
+            $table->text('konten3')->nullable();
+            $table->text('konten4')->nullable();
+            $table->text('konten5')->nullable();
+            $table->text('konten6')->nullable();
+            $table->text('konten7')->nullable();
+            $table->text('konten8')->nullable();
 
             $table->timestamps();
         });

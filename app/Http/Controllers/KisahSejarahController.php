@@ -1,9 +1,8 @@
 <?php
 
-namespace App\Http\Controllers\Api;
+namespace App\Http\Controllers;
 
 use App\Models\KisahSejarah;
-use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Inertia\Inertia;
 
@@ -16,10 +15,10 @@ class KisahSejarahController extends Controller
      */
     public function index()
     {
-        // ambil data terakhir
-        $kisahsejarah = KisahSejarah::latest()->get();
-        // response json
-        return response()->json(['data' => $kisahsejarah]);
+        $sejarah = KisahSejarah::all();
+        return Inertia('KisahSejarah', [
+            'sejarah' => $sejarah
+        ]);
     }
 
     /**
@@ -29,7 +28,7 @@ class KisahSejarahController extends Controller
      */
     public function create()
     {
-        return Inertia::render('KisahSejarah');
+        //
     }
 
     /**
@@ -40,33 +39,16 @@ class KisahSejarahController extends Controller
      */
     public function store(Request $request)
     {
-        //set validation
-
-        // $request->validate([
-        //     'judul'   => 'required',
-        //     'text'   => 'required',
-        // ]);
-
-
-        //create post
-
-        // KisahSejarah::create([
-        //     'judul'     => $request->judul,
-        //     'text'     => $request->text
-        // ]);
-
-        //redirect
-        
-        // return redirect()->route('#')->with('success', 'Data Berhasil Disimpan!');
+        //
     }
 
     /**
      * Display the specified resource.
      *
-     * @param  \App\Models\KisahSejarah  $kisahSejarah
+     * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function show(KisahSejarah $kisahSejarah)
+    public function show($id)
     {
         //
     }
@@ -74,10 +56,10 @@ class KisahSejarahController extends Controller
     /**
      * Show the form for editing the specified resource.
      *
-     * @param  \App\Models\KisahSejarah  $kisahSejarah
+     * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function edit(KisahSejarah $kisahSejarah)
+    public function edit($id)
     {
         //
     }
@@ -86,10 +68,10 @@ class KisahSejarahController extends Controller
      * Update the specified resource in storage.
      *
      * @param  \Illuminate\Http\Request  $request
-     * @param  \App\Models\KisahSejarah  $kisahSejarah
+     * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, KisahSejarah $kisahSejarah)
+    public function update(Request $request, $id)
     {
         //
     }
@@ -97,10 +79,10 @@ class KisahSejarahController extends Controller
     /**
      * Remove the specified resource from storage.
      *
-     * @param  \App\Models\KisahSejarah  $kisahSejarah
+     * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function destroy(KisahSejarah $kisahSejarah)
+    public function destroy($id)
     {
         //
     }

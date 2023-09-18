@@ -10,9 +10,5 @@ class KisahSejarah extends Model
     use HasFactory;
 
     protected $guarded = [];
-    
-    public function getImageAttribute($image)
-    {
-        return asset('storage/menus/' . $image);
-    }
+   
 }

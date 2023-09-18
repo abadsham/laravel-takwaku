@@ -42,7 +42,7 @@ export default function DzikirPagi() {
                                                     <div className="">
                                                         <div>
                                                             <span className="text-gray-600 dark:text-gray-400">
-                                                                Oleh : {" "}
+                                                                Oleh :{" "}
                                                             </span>
                                                             <a
                                                                 className="font-medium text-gray-800 dark:text-gray-300 hover:underline"
@@ -229,9 +229,7 @@ export default function DzikirPagi() {
                                                     seorang pun yang setara
                                                     dengan-Nya.'" (QS.
                                                     Al-Ikhlash: 1-4).
-                                                    <small>
-                                                        (Dibaca 3x).
-                                                    </small>
+                                                    <small>(Dibaca 3x).</small>
                                                     . [2] <br /> <br /> Membaca
                                                     Surat Al-Falaq
                                                     <br />
@@ -413,8 +411,7 @@ export default function DzikirPagi() {
                                                     kehendak-Mu kami mati. Dan
                                                     kepada-Mu kebangkitan (bagi
                                                     semua makhluk)." (Dibaca
-                                                    pagi 1x)[6]. {" "}
-                                                    <br />
+                                                    pagi 1x)[6]. <br />
                                                     <br /> Membaca Sayyidul
                                                     Istighfar <br />
                                                     <br />
@@ -449,8 +446,8 @@ export default function DzikirPagi() {
                                                     itu, ampuni­lah aku.
                                                     Sesungguhnya tidak ada yang
                                                     dapat me­ngampuni dosa
-                                                    kecuali Engkau." (Dibaca diwaktu
-                                                    pagi 1x) . [7]
+                                                    kecuali Engkau." (Dibaca
+                                                    diwaktu pagi 1x) . [7]
                                                     <br />
                                                     <small className="font-bold">
                                                         *Faedah: Barangsiapa
@@ -857,24 +854,19 @@ export default function DzikirPagi() {
                                                     meminta kepada-Mu ilmu yang
                                                     bermanfaat, rizki yang
                                                     halal, dan amalan yang
-                                                    diterima."
-                                                        (Dibaca 1 x setelah
-                                                        salam dari shalat
-                                                        Shubuh)
-                                                    . [19] <br /> <br /> Membaca{" "}
-                                                    <br />
+                                                    diterima." (Dibaca 1 x
+                                                    setelah salam dari shalat
+                                                    Shubuh) . [19] <br /> <br />{" "}
+                                                    Membaca <br />
                                                     <br /> أَسْتَغْفِرُ اللهَ
                                                     وَأَتُوْبُ إِلَيْهِ <br />
                                                     <br />
                                                     "Aku memohon ampunan kepada
                                                     Allah dan ber­taubat
                                                     kepada-Nya." (Dibaca setiap
-                                                    kepada-Nya."{" "}
-                                                        (Dibaca setiap hari
-                                                        100x)
-                                                    . [21] <br />
-                                                    <br /> Membaca
-                                                    Shalawat
+                                                    kepada-Nya." (Dibaca setiap
+                                                    hari 100x) . [21] <br />
+                                                    <br /> Membaca Shalawat
                                                     <br />
                                                     <br />
                                                     اَللَّهُمَّ صَلِّ وَسَلِّمْ
@@ -895,259 +887,103 @@ export default function DzikirPagi() {
                                         <footer>
                                             <p className="mb-8">
                                                 <hr className="mb-8" />
-                                                [1]"Barangsiapa yang membaca
-                                                ayat ini ketika pagi hari, maka
-                                                ia dijaga dari (gangguan) jin
-                                                hingga sore hari. Dan
-                                                barangsiapa mengucapkannya
-                                                ketika sore hari, maka ia dijaga
-                                                dari (gangguan) jin hingga pagi
-                                                hari." (HR. Al-Hakim 1/562,
-                                                Shahiih at-Targhiib wat Tarhiib
-                                                1/418 no. 662, shahih). <br />
-                                                [2] HR. Abu Dawud no. 5082,
-                                                an-Nasa-i VIII/250 dan
-                                                at-Tirmidzi no. 3575, Ahmad
-                                                V/312, Shahiih at-Tirmidzi no.
-                                                2829, Tuhfatul Ahwadzi no. 3646,
-                                                Shahiih at-Targhiib wat Tarhiib
-                                                1/411 no. 649, hasan shahih{" "}
+                                                [1] HR. Al Hakim (1: 562).
+                                                Syaikh Al Albani menshahihkan
+                                                hadits tersebut dalam Shahih At
+                                                Targhib wa At Tarhib no. 655.).{" "}
                                                 <br />
-                                                [3] Ibid. <br />
-                                                [4] “Barangsiapa membaca tiga
-                                                surat tersebut setiap pagi dan
-                                                sore hari, maka (tiga surat
-                                                tersebut) cukup baginya dari
-                                                segala sesuatu”. At-Tirmizi
-                                                berkata “Hadits ini hasan
-                                                shahih” HR. Abu Dawud no. 5082,
-                                                an-Nasa-i VIII/250 dan
-                                                at-Tirmidzi no. 3575, Ahmad
-                                                V/312, Shahiih at-Tirmidzi no.
-                                                2829, Tuhfatul Ahwadzi no. 3646,
-                                                Shahiih at-Targhiib wat Tarhiib
-                                                1/411 no. 649, hasan shahih{" "}
                                                 <br />
-                                                [5] HR. Muslim IV/2088 no. 2723,
-                                                Abu Dawud no. 5071, at-Tirmidzi
-                                                3390, shahih <br />
-                                                [6] HR. Al-Bukhari dalam
-                                                al-Adabul Mufrad, lafazh ini
-                                                ada­lah lafazh al-Bukhari,
-                                                at-Tirmidzi no. 3391, Abu Dawud
-                                                no. 5068, Ahmad 11/354, Ibnu
-                                                Majah no. 3868, Shahiih
-                                                al-Adabil Mufrad no. 911,
-                                                shahih. Lihat pula Silsilah
-                                                al-Ahaadiits ash-Shahiihah no.
-                                                262. <br />
-                                                [7] "Barangsiapa membacanya
-                                                dengan yakin di waktu pagi lalu
-                                                ia meninggal sebelum masuk waktu
-                                                sore, maka ia ter­masuk ahli
-                                                Surga. Dan barangsiapa
-                                                membacanya dengan yakin di waktu
-                                                sore lalu ia meninggal sebelum
-                                                masuk waktu pagi, maka ia
-                                                termasuk ahli Surga." (HR.
-                                                Al-Bukhari no. 6306, 6323, Ahmad
-                                                IV/122-125, an-Nasa-i
-                                                VIII/279-280)
+                                                [2] HR. Abu Daud no. 5082,
+                                                Tirmidzi no. 3575. Al Hafizh Abu
+                                                Thohir mengatakan bahwa sanad
+                                                hadits ini hasan.
                                                 <br />
-                                                [8] HR. Al-Bukhari dalam Shahiib
-                                                al-Adabil Mufrad no. 539, Abu
-                                                Dawud no. 5090, Ahmad V/42,
-                                                hasan <br />
-                                                [9] HR. Al-Bukhari dalam
-                                                al-Adabul Mufrad, Abu Dawud no.
-                                                5074, Ibnu Majah no. 3871,
-                                                al-Hakim 1/517-518, Shahiih
-                                                al-Adabul Mufrad no. 912, shahih
                                                 <br />
-                                                [10] Nabi صلي الله عليه وسلم
-                                                bersabda kepada Abu Bakar
-                                                ash-Shiddiq رضي الله عنه
-                                                "Ucapkanlah pagi dan petang dan
-                                                apabila engkau hendak tidur."
-                                                HR. At-T irmidzi no. 3392 dan
-                                                Abu Dawud no. 5067, lihat
-                                                Shahiih at-Tirmidzi no. 2071,
-                                                Shahiih al-Adabil Mufrad no.
-                                                914, shahih. Lihat Silsilah
-                                                al-Ahaadiits ash-Shahiihah no.
-                                                2753 <br />
-                                                [11] "Barangsiapa membacanya
-                                                sebanyak tiga kali ketika pagi
-                                                dan sore hari, maka tidak ada
-                                                sesuatu pun yang mem­bahayakan
-                                                dirinya." HR. At-Tirmidzi no.
-                                                3388, Abu Dawud no. 5088, Ahmad
-                                                no. 446 dan 476, Tahqiq Ahmad
-                                                Syakir dan Ibnu Majah no. 3869,
-                                                lihat Shahiih Ibni Majah no.
-                                                3120, al-Hakim 1/513, Shahiih
-                                                al-Adabil Mufrad no. 513,
-                                                Shahiih at-Targhiib wat Tarhiib
-                                                1/413 no. 655, sanad-nya shahih.{" "}
+                                                [3] HR. Muslim no. 2723. Lihat
+                                                keterangan Syarh Hisnul Muslim,
+                                                hal. 161. <br /> <br />
+                                                [4] HR. Tirmidzi no. 3391 dan
+                                                Abu Daud no. 5068. Al Hafizh Abu
+                                                Thohir mengatakan bahwa sanad
+                                                hadits ini shahih.
                                                 <br />
-                                                [12] "Barangsiapa membacanya
-                                                sebanyak tiga kali ketika pagi
-                                                dan sore, maka Allah memberikan
-                                                keridhaan-Nya kepada­nya pada
-                                                hari Kiamat." HR. Ahmad IV/337,
-                                                Abu Dawud no. 5072, at-Tirmidzi
-                                                no. 3389, Ibnu Majah no. 3870,
-                                                an-Nasa-i dalam 'Amalul Yaum wal
-                                                Lailah no. 4 dan Ibnus Sunni no.
-                                                68, Shahiih at-Targhiib wat
-                                                Tarhiib 1/415 no. 657,
-                                                dishahihkan oleh Imam al-Hakim
-                                                dalam al-Mustadrak 1/518 dan
-                                                disetujui oleh Imam adz-Dzahabi,
-                                                hasan. Lihat juga Shahiih
-                                                al-Waabilish Shayyib hal. 170,
-                                                Zaadul Ma'aad II/372, Silsilah
-                                                al-Ahaadiits ash-Shahiihah no.
-                                                2686.
                                                 <br />
-                                                [13] HR. An-Nasa-i, al-Bazzar
-                                                dan al-Hakim 1/545, lihat
-                                                Shahiih at-Targhiib wat Tarhiib
-                                                1/AV7 no. 661, hasan <br />
-                                                [14] HR. Ahmad III/406, 407,
-                                                V/123, ad-Darimi II/292 dan
-                                                Ibnus Sunni dalam Amalul Yaum
-                                                wol Lailah no. 34, Misykaatul
-                                                Mashaabiih no. 2415,
-                                                Shahiihal-Jaami'ish Shaghiir no.
-                                                4674, shahih <br />
-                                                [15] HR. Muslim no. 2693, Ahmad
-                                                V/420, Silsilah al-Ahaadiits
-                                                ash-Shahiihah no. 113 dan 114,
-                                                Shahiih at-Targhiib wat Tarhiib
-                                                1/416 no. 660, shahih.
+                                                [5] HR. Bukhari no. 6306. <br />
                                                 <br />
-                                                [16] HR. Abu Dawud no. 5077,
-                                                Ibnu Majah no. 3867, Shahiih
-                                                Jaami'ish Shaghiir no. 6418,
-                                                MisykaatulMashaabiih no. 2395,
-                                                Shahiih at-Targhiib 1/414 no.
-                                                656, shahih. <br />
-                                                [17] "Barangsiapa membacanya
-                                                sebanyak 100x dalam sehari, maka
-                                                baginya (pahala) seperti
-                                                memerdekakan sepuluh budak,
-                                                ditulis seratus kebaikan,
-                                                dihapus darinya seratus
-                                                keburukan, baginya perlindungan
-                                                dari syaitan pada hari itu
-                                                hingga sore hari. Tidaklah
-                                                seseorang itu dapat
-                                                men­datangkan yang lebih baik
-                                                dari apa yang dibawanya ke­cuali
-                                                ia melakukan lebih banyak lagi
-                                                dari itu." HR. Al-Bukhari no.
-                                                3293 dan 6403, Muslim IV/2071
-                                                no. 2691 (28), at-Tirmidzi no.
-                                                3468, Ibnu Majah no. 3798, dari
-                                                Sahabat Abu Hurairah رضي الله
-                                                عنه. Penjelasan: Dalam riwayat
-                                                an-Nasa-i ('Amalul Yaum wal
-                                                Lailah no. 580) dan Ibnus Sunni
-                                                no. 75 dari 'Amr bin Syu'aib
-                                                dari ayahnya dari kakeknya
-                                                lafazhnya: "Barangsiapa membaca
-                                                100x pada pagi hari dan 100x
-                                                pada sore Hari."... Jadi, dzikir
-                                                ini dibaca 100x diwaktu pagi dan
-                                                100x diwaktu sore. Lihat
-                                                Silsilah al-Ahaadiits
-                                                ash-Shahiihah no. 2762 <br />
-                                                [18] HR. Muslim no. 2726. Syarah
-                                                Muslim XVII/44. <br />
-                                                [19] HR. Ibnu Majah no. 925,
-                                                Shahiib Ibni Majah 1/152 no. 753
-                                                dan Ibnus Sunni dalam 'Amalul
-                                                Yaum walLailah, shahih. <br />
-                                                [20] HR. Muslim no. 2691 dan no.
-                                                2692, Syarak Muslim XVTV 17-18,
-                                                Shahiih at-Targhiib wat Tarhiib
-                                                1/413 no. 653. Jumlah yang
-                                                terbanyak dari dzikir-dzikir
-                                                Nabi adalah seratus diwaktu pagi
-                                                dan seratus diwaktu sore. Adapun
-                                                riwayat yang menyebutkan sampai
-                                                seribu adalah munkar, karena
-                                                haditsnya dha'if. (Silsilah
-                                                al-Ahaadiits adh-Dha-'iifah no.
-                                                5296). <br />
-                                                [21] HR. Al-Bukhari/ Fat-hul
-                                                Baari XI/101 dan Muslim no.2702
-                                                عَنِ ابْنِ عُمَرَ قَالَ:قَالَ
-                                                رَسُو لُ اللهِ صلي الله عليه
-                                                وسلم : يَااَيُّهَا النَّسُ،
-                                                تُوبُواإِلَيْ اللهِ. فَإِنِّيْ
-                                                اَتُوبُ فِيْ الْيَومِ إِلَيْهِ
-                                                مِانَةً مَرَّةٍ Dari Ibnu 'Umar
-                                                ia berkata: "Rasulullah صلي الله
-                                                عليه وسلم ber­sabda: 'Wahai
-                                                manusia, bertaubatlah kalian
-                                                kepada Allah, sesungguhnya aku
-                                                bertaubat dalam sehari seratus
-                                                kali.'" HR. Muslim no. 2702
-                                                (42). Dalam riwayat lain dari
-                                                Agharr al-Muzani, Rasulullah صلي
-                                                الله عليه وسلم bersabda:
+                                                [6] HR. Abu Daud no. 5069. Al
+                                                Hafizh Abu Thohir mengatakan
+                                                bahwa hadits ini hasan. <br />{" "}
                                                 <br />
-                                                [إِنَّهُ لَيُغَانُ عَلَى
-                                                قَلْبِيْ وَإِنِّيْ لأَسْتَغْفِرُ
-                                                اللهَ فِي الْيَوْمِ مِائَةَ
-                                                مَرَّةٍ] "Sesungguhnya hatiku
-                                                lupa padahal se­sungguhnya aku
-                                                istigfar (minta ampun) kepada
-                                                Allah dalam sehari seratus
-                                                kali." (HR. Muslim no. 2702 (41)
-                                                Nabi صلي الله عليه وسلم
-                                                bersabda: "Barangsiapa yang
-                                                mengucapkan: أَسْتَغْفِرُ اللهَ
-                                                الْعَظِيْمَ الَّذِيْ لاَ إِلَـهَ
-                                                إِلاَّ هُوَ الْحَيُّ
-                                                الْقَيُّوْمُ وَأَتُوْبُ إِلَيْهِ
-                                                'Aku memohon ampunan kepada
-                                                Allah Yang Maha Agung, Yang
-                                                tidak ada Ilah (yang berhak
-                                                diibadahi) kecuali Dia, Yang
-                                                Maha hidup lagi Mahaberdiri
-                                                sendiri dan aku ber­taubat
-                                                kepada-Nya.' Maka Allah akan
-                                                mengampuni dosanya meskipun ia
-                                                pernah lari dari medan perang."
-                                                HR. Abu Dawud no. 1517,
-                                                at-Tirmidzi no. 3577 dan
-                                                al-Hakim I/511. Lihat Shahiih
-                                                at-Tirmidzi III/282. Ayat yang
-                                                menganjurkan istighfar dan
-                                                taubat di antara­nya: (QS. Huud:
-                                                3), (QS. An-Nuur: 31), (QS.
-                                                At-Tahriim: 😎 dan lain-lain.
+                                                [7] HR. Abu Daud no. 5074 dan
+                                                Ibnu Majah no. 3871. Al Hafizh
+                                                Abu Thohir mengatakan bahwa
+                                                sanad hadits ini shahih.
                                                 <br />
-                                                [22] HR. Ahmad 11/290, an-Nasa-i
-                                                dalam 'Amalul Yaum wal Lailah
-                                                no. 590, Shahiih at-Targhiib wat
-                                                Tarhiib 1/412 no. 652, Shahiih
-                                                al-Jaami 'ish Shaghiir no. 6427{" "}
-                                                <br /> <br /> [23] Dari Abu
-                                                Darda’, Nabi shallallahu ‘alaihi
-                                                wa sallam bersabda, “Barangsiapa
-                                                bershalawat untukku sepuluh kali
-                                                di pagi dan sore hari, maka ia
-                                                akan mendapatkan syafa’atku di
-                                                hari kiamat nanti.” (HR.
-                                                Thobroni melalui dua isnad,
-                                                keduanya jayyid. Lihat Majma’ Az
-                                                Zawaid (10/120) dan Shahih At
-                                                Targhib wa At Tarhib (1/273, no.
-                                                656))
+                                                <br />
+                                                [8] HR. Tirmidzi no. 3392 dan
+                                                Abu Daud no. 5067. Al Hafizh Abu
+                                                Thohir mengatakan bahawa sanad
+                                                hadits ini shahih. Adapun
+                                                kalimat terakhir (وَأَنْ
+                                                أَقْتَرِفَ عَلَى نَفْسِيْ
+                                                سُوْءًا أَوْ أَجُرُّهُ إِلَى
+                                                مُسْلِمٍ) adalah tambahan dari
+                                                riwayat Ahmad 2: 196.
+                                                Dikomentari oleh Syaikh Syu’aib
+                                                Al Arnauth bahwa hadits tersebut
+                                                shahih dilihat dari jalur
+                                                lainnya (shahih lighoirihi).{" "}
+                                                <br />
+                                                <br />
+                                                [9] HR. Abu Daud no. 5088, 5089,
+                                                Tirmidzi no. 3388, dan Ibnu
+                                                Majah no. 3869. Al Hafizh Abu
+                                                Thohir mengatakan bahwa sanad
+                                                hadits ini hasan. <br />
+                                                <br />
+                                                [10] HR. Abu Daud no. 5072,
+                                                Tirmidzi no. 3389. Al Hafizh Abu
+                                                Thohir mengatakan bahwa hadits
+                                                ini hasan. <br />
+                                                <br />
+                                                [11] HR. Ibnu As Sunni dalam
+                                                ‘Amalul Yaum wal Lailah no. 46,
+                                                An Nasai dalam Al Kubro (381/
+                                                570), Al Bazzar dalam musnadnya
+                                                (4/ 25/ 3107), Al Hakim (1:
+                                                545). Sanad hadits ini hasan
+                                                sebagaimana dikatakan oleh
+                                                Syaikh Al Albani dalam As
+                                                Silsilah Ash Shahihah no. 227.
+                                                <br />
+                                                <br />
+                                                [12] HR. Ahmad (3: 406). Syaikh
+                                                Syu’aib Al Arnauth mengatakan
+                                                bahwa sanad hadits ini shahih
+                                                sesuai syarat Bukhari Muslim.
+                                                Lihat pula As Silsilah Ash
+                                                Shahihah no. 2989.
+                                                <br />
+                                                <br />
+                                                [13] HR. Muslim no. 2692. <br />
+                                                <br />
+                                                [14] HR. An Nasai Al Kubra 6:
+                                                10. <br />
+                                                <br />
+                                                [15] HR. Bukhari no. 3293 dan
+                                                Muslim no. 2691.
+                                                <br />
+                                                <br />
+                                                [16] HR. Muslim no. 2726. <br />
+                                                <br />
+                                                [17] HR. Ibnu Majah no. 925 dan
+                                                Ahmad 6: 305, 322. Al Hafizh Abu
+                                                Thohir mengatakan bahwa hadits
+                                                ini shahih. <br />
+                                                <br />
+                                                [18] HR. Bukhari no. 6307 dan
+                                                Muslim no. 2702.  <br /> <br />
+                                                
                                             </p>
                                         </footer>
                                     </div>

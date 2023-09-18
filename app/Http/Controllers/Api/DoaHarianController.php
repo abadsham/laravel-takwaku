@@ -2,9 +2,10 @@
 
 namespace App\Http\Controllers\Api;
 
+use Inertia\Inertia;
 use App\Models\DoaHarian;
-use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
+use App\Http\Controllers\Controller;
 
 class DoaHarianController extends Controller
 {
@@ -28,7 +29,7 @@ class DoaHarianController extends Controller
      */
     public function create()
     {
-        //return Inertia::render(');
+        // return Inertia::render('Doaharian');
     }
 
     /**

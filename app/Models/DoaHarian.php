@@ -10,4 +10,5 @@ class DoaHarian extends Model
     use HasFactory;
 
     protected $guarded = [];
+    // protected $table = 'doa_harians';
 }

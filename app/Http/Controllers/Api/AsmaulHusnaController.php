@@ -15,6 +15,11 @@ class AsmaulHusnaController extends Controller
         $asmaulhusna = AsmaulHusna::all();
         // response json
         return response()->json(['data' => $asmaulhusna ]);
-        // return Inertia::render('AsmaulHusna');
+    }
+
+    public function indexWeb()
+    {
+        $asmaulhusna = AsmaulHusna::all();
+        return Inertia('AsmaulHusna', ['asmaul' => $asmaulhusna]);
     }
 }

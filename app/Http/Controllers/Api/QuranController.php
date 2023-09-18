@@ -16,6 +16,13 @@ class QuranController extends Controller
         return $response->json();
         
     }
+    public function show($nomor)
+    {
+        // daftar surat
+        $response = Http::get('https://quran-api.santrikoding.com/api/surah/' . $nomor);
+        return $response->json();
+        
+    }
 
     public function getSurat($nomor)
     {

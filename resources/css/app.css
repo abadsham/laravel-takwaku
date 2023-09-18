@@ -5,3 +5,12 @@
 .login_img_section {
     background: linear-gradient(rgba(2, 2, 2, .7), rgba(0, 0, 0, .7)), url(https://images.unsplash.com/photo-1551095581-a8e5b4b28558?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1031&q=80) center center;
 }
+
+
+.audioplay {
+    width: 100% ;
+    padding: 3px 3px;
+    background-color: rgb(104, 104, 104);
+    border-radius: 30px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.479);
+}

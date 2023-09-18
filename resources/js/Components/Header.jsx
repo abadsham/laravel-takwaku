@@ -38,8 +38,9 @@ export default function Header() {
                         </Dropdown.Trigger>
                         <Dropdown.Content>
                             <Dropdown.Link href="/">Home</Dropdown.Link>
-                            <Dropdown.Link href="">Tentang Kami</Dropdown.Link>
-                            <Dropdown.Link href="">Artikel Sejarah</Dropdown.Link>
+                            <Dropdown.Link href="">
+                                Artikel Sejarah
+                            </Dropdown.Link>
                             <hr className="m-3 border border-stone-300" />
                             <Dropdown.Link href="">Login(admin)</Dropdown.Link>
                         </Dropdown.Content>
@@ -66,15 +67,7 @@ export default function Header() {
                                 </li>
                                 <li>
                                     <Link
-                                        href=""
-                                        className="text-gray-800 font-medium lg:p-4 py-3 px-0 block border-b-2 border-transparent hover:border-gray-500"
-                                    >
-                                        Tentang Kami
-                                    </Link>
-                                </li>
-                                <li>
-                                    <Link
-                                        href=""
+                                        href={route("kisah-sejarah.index")}
                                         className="text-gray-800 font-medium lg:p-4 py-3 px-0 block border-b-2 border-transparent hover:border-gray-500"
                                     >
                                         Artikel Islam
@@ -105,12 +98,10 @@ export default function Header() {
                                         </Dropdown.Trigger>
 
                                         <Dropdown.Content>
-                                            <Dropdown.Link href="">
+                                            {/* <Dropdown.Link href="">
                                                 Lain-lain
-                                            </Dropdown.Link>
-                                            <Dropdown.Link
-                                                href="login"
-                                            >
+                                            </Dropdown.Link> */}
+                                            <Dropdown.Link href="login">
                                                 Login(admin)
                                             </Dropdown.Link>
                                         </Dropdown.Content>

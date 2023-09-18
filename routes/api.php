@@ -25,13 +25,14 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 // api quran
 Route::prefix('quran')->group(function () {
     Route::get('surat', [QuranController::class, 'index'])->name('surat');
-    // Route::get('surat/{nomor}', [QuranController::class, 'getSurat'])->name('nomorsurat');
-    // Route::get('tafsir/{nomor}', QuranController::class);
+    Route::get('surat/{nomor}', [QuranController::class, 'show'])->name('surat.showw');
+    Route::apiResource('surat', QuranController::class);
+    Route::get('tafsir/{nomor}', [QuranController::class, 'getTafsir'])->name('gettafsir');
     // Route::get('audio', QuranController::class);
     // Route::get('audio/1/{nomor}', QuranController::class);
     // Route::get('audio/2/{id}', QuranController::class);
 });
 
-Route::apiResource('asmaul-husna', AsmaulHusnaController::class);
+Route::get('asmaul-husna', [AsmaulHusnaController::class, 'index'])->name('api.asmaul-husna');
 Route::apiResource('doa-harian', DoaHarianController::class);
 Route::apiResource('kisah-sejarah', KisahSejarahController::class);
